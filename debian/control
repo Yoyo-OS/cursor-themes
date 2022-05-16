@@ -1,13 +1,13 @@
-Source: cutefish-cursor-themes
+Source: yoyo-cursor-themes
 Section: kde
 Priority: optional
-Maintainer: Reion Wong <reion@cutefishos.com>
+Maintainer: Reion Wong <reion@yoyoos.com>
 Build-Depends:
 Standards-Version: 3.9.6
-Homepage: https://cutefishos.com
-Vcs-Git: https://github.com/cutefishos
+Homepage: https://yoyoos.com
+Vcs-Git: https://github.com/yoyoos
 
-Package: cutefish-cursor-themes
+Package: yoyo-cursor-themes
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: CutefishOS Cursor Theme
+Description: YoyoOS Cursor Theme

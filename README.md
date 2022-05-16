@@ -1,4 +1,4 @@
-# Cutefish Cursor Themes
+# Yoyo Cursor Themes
 
 forked from https://github.com/ful1e5/Bibata_Cursor
 
